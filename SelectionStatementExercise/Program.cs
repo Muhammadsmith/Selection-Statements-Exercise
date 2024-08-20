@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Excercise1();
-            school();
+            School();
         }
 
         static void Excercise1()
@@ -26,25 +26,25 @@
 
             else
             {
-                Console.WriteLine("Guess still below my number hahaha");
+                Console.WriteLine("Your guess is still below my number hahaha");
             }
 
 
 
         }
 
-        public static void school()
+        public static void School()
         {
-            Console.WriteLine("Whats your favorite subject?");
-            string favoriteSubject = Console.ReadLine();
+            Console.WriteLine("What is your favorite subject?");
+            string favoriteSubject = Console.ReadLine().ToLower();
 
             switch (favoriteSubject)
             {
-                case "Math":
+                case "math":
                     Console.WriteLine("Math is the best subject in the world!");
                     break;
 
-                case "History":
+                case "history":
                     Console.WriteLine("History is awesome!");
                     break;
                 default:

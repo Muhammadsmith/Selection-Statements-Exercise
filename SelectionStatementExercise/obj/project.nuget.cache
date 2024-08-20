@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ce4wKGq4LkIgvl23q/XNp/hT/8SOpa1oe4lTYsQiAKESAAV0Iq5FyspaxickqP51W6CH+Sihgezj+PN4MEWlog==",
+  "dgSpecHash": "8u2eXLd5FZHOBYnljAFLkOIdO217jnakorBQJ3dlepi7zgu27lraGYbXeFiKaBJHF3M2leYE04q+NMl359gdOA==",
   "success": true,
   "projectFilePath": "/Users/mdev/Desktop/repos/Selection-Statements-Exercise/SelectionStatementExercise/SelectionStatementExercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mdev/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/mdev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/mdev/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.32/microsoft.netcore.app.host.osx-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
